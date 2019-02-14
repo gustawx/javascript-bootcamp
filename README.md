@@ -1,2 +1,2 @@
-# javascript_basics
+# javascript-bootcamp
 javascript udemy course
